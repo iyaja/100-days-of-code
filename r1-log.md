@@ -1,10 +1,21 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Ajay Uppili Arasanipalai
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [July 4, Wednesday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Finished a few excercises on the "Kotlin Bootcamp for Programmers" course on Udacity. Commited the code to GitHub.
+
+The course didn't go as fast as I thought it would. I finished far less than what I expected to complete. But with more focus, I should be able to maintain a better pace in the future.
+
+[Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
 
 ### R1D2
+Continued the Kotlin bootcamp Udacity course. Finished the next few exercises. Commited changes to the repo from yesterday.
+
+Today didn't go that well either. I was able to understand and follow the exercises perfectly, but I felt that I was working too slow, andI'm currently not a far into the course as I thought I'd be.
+
+[Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
+
+### R1D3
