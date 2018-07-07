@@ -19,8 +19,12 @@ Today didn't go that well either. I was able to understand and follow the exerci
 [Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
 
 ### R1D3
+Note: I missed the hour of code yesterday since I was out all day without my laptop. I will add another day to the end.
+
 Continued the Kotlin bootcamp Udacity course. Finished the section on functions. Commited changes to the repo.
 
 I finally finished the section I've been working on. Today, I sped things up to get the course done faster, but  felt like I didn't have as clear of an understanding of the code as yesterday. At the current rate, it looks like my entire first week will be dedicated to completing the kotlin course.
 
 [Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
+
+### R1D4
