@@ -31,3 +31,6 @@ I finally finished the section I've been working on. Today, I sped things up to 
 Started lesson 4 of the "Kotlin Bootcamp for Programmers" course. Not much progress. Commited changes to repo.
 
 Nothing interesting today. I wasn't expecting much either. Just started coding to keep up with the challenge. I'm planning on joining the 100DaysOfMLCode challenge too. I expect that there will be some overlap between the two.
+
+[Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
+
