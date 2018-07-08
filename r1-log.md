@@ -34,3 +34,7 @@ Nothing interesting today. I wasn't expecting much either. Just started coding t
 
 [Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
 
+###R1D5
+
+###R1D6
+
