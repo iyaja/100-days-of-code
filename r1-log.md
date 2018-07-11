@@ -42,6 +42,7 @@ Attended a virtual conference where I expexted to write some code. I learnt a lo
 I was a bit disappointed with today. I expected to write some code as a part of a virtual conference, but it ended up being just talks. I did learn from the event, but considering that I didn't write code, I'll try to add an hour to day 7 (don't think I'll have time on day 6).
 
 ### R1D6
+Note: While I have been following up with the challenge, I forgot to update the log, so the dates might be inaccurate.
 
 Wrote my first code with SQL. Created a very simple database that stores a customer ID and name.
 
