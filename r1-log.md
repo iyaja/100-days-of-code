@@ -35,6 +35,19 @@ Nothing interesting today. I wasn't expecting much either. Just started coding t
 [Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
 
 ### R1D5
+Note: While I have been following up with the challenge, I forgot to update the log, so the dates might be inaccurate.
+
+Attended a virtual conference where I expexted to write some code. I learnt a lot about blockchain from the confernce, but didn't actually write code. As a result, I'll add an extra hour to R1D7.
+
+I was a bit disappointed with today. I expected to write some code as a part of a virtual conference, but it ended up being just talks. I did learn from the event, but considering that I didn't write code, I'll try to add an hour to day 7 (don't think I'll have time on day 6).
 
 ### R1D6
+
+Wrote my first code with SQL. Created a very simple database that stores a customer ID and name.
+
+As expected, I was very busy today, and didn't get much time to code. But I included the time I spent at school playing around with SQL. What I wrote was based off the book "Database System Concepts" by Avi Silberschatz, Henry F. Korth, and S. Sudarshan. I have chosen to include it today since it was done independently of my school curriculum. Again, not much progress towards my goals for the challenge. I'll write more in weekly update to my medium post.
+
+### R1D7
+
+
 
