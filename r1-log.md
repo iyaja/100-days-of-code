@@ -45,7 +45,7 @@ I was a bit disappointed with today. I expected to write some code as a part of 
 
 Wrote my first code with SQL. Created a very simple database that stores a customer ID and name.
 
-As expected, I was very busy today, and didn't get much time to code. But I included the time I spent at school playing around with SQL. What I wrote was based off the book "Database System Concepts" by Avi Silberschatz, Henry F. Korth, and S. Sudarshan. I have chosen to include it today since it was done independently of my school curriculum. Again, not much progress towards my goals for the challenge. I'll write more in weekly update to my medium post.
+As expected, I was very busy today, and didn't get much time to code. But I included the time I spent at school playing around with SQL. What I wrote was based off the book "Database System Concepts" by Avi Silberschatz, Henry F. Korth, and S. Sudarshan. I have chosen to include it today since it was done independently of my school curriculum. I can't provide a link as the code is currently not with me. Again, not much progress towards my goals for the challenge. I'll write more in weekly update to my medium post.
 
 ### R1D7
 
