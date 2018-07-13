@@ -54,3 +54,9 @@ Finished half of the "classes" lesson on the Udacity Kotlin bootcamp.
 While I progressed faster than my average throughout this challenge, I am still disappointed overall at both my pacing and progress towards my goal. I didn't anticipate that the Kotlin course would take this long. If this continues, I'll probably quit the Kotlin course and get started with JS.
 
 [Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
+
+### R1D7
+Finished the "classes" lesson on the Udacity Kotlin Bootcamp for Programmers course. Updated weekly log on medium post.
+
+[Kotlin Bootcamp for Developers](https://github.com/iyaja/Kotlin-Bootcamp-for-Programmers)
+[My Public Commitment to the #100DaysOfCode Challenge](https://hackernoon.com/my-public-commitment-to-the-100daysofcode-challenge-9cac53d500bf)
