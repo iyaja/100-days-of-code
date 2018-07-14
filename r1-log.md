@@ -1,6 +1,9 @@
 # #100DaysOfCode Log - Round 1 - Ajay Uppili Arasanipalai
 
 The log of my #100DaysOfCode challenge. Started on [July 4, Wednesday, 2018].
+$$
+x = \int \sum
+$$
 
 ## Log
 
